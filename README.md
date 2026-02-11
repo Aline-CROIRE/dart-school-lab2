@@ -5,7 +5,7 @@ A modern, animated **Hello World** Flutter application demonstrating Flutter's U
 - Gradient background 
 - Animated scaling text 
 - Modern typography 
-- Works on **Chrome (Web)**, **Android Emulator**, or **Physical Devices** 📱
+- Works on **Chrome (Web)**, **Android Emulator**, or **Physical Devices** 
 
 ---
 
@@ -89,7 +89,7 @@ hello_world/
 
 Here's a preview of the app:
 
-![Hello World Screenshot](screenshots/hello_world_screenshot.png)
+![Hello World Screenshot](screenshots/s1.jpg)
 
 ---
 
